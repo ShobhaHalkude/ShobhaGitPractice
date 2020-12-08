@@ -1,0 +1,8 @@
+int a,b
+scanf ("Enter a value=")
+scanf ("Enter b value=")
+add = a+b
+printf(a)
+subtract(a-b)
+printf(b)
+=
